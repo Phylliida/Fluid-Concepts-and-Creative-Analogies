@@ -74,6 +74,7 @@ AJ Hager has also independently developed a python version of copycat, with some
 PROJECT: METACAT
 ---
 
+The source files and installation instructions (metacat is implemented in Scheme) are available at http://science.slc.edu/~jmarshall/metacat/
 
 
 PROJECT: NUMBO
